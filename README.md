@@ -7,10 +7,11 @@ are basic but should give an idea of how to use python with the cisco ISE and px
 
 - program_1.py
 
-this example shows you how to put a set device into a cisco ISE endpoint group.
+this example shows you how to put a set device into a cisco ISE policy group using command "ANCApplyByIP".
+
 - program_2.py
 
-an example that lists the endpoints on a cisco ISE
+an example that lists the endpoints on a cisco ISE w/ command "ANCGetEndpoints"
 
 ## installation / setup
 
